@@ -8,6 +8,8 @@
 puts 'Cleaning database...'
 Restaurant.destroy_all
 
+
+
 puts 'Creating restaurants...'
 restaurants_attributes = [
   {
