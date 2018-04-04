@@ -15,9 +15,9 @@
  */
 
 body {
-    background-color: #FAFAFA;
-    color: #333;
-    margin: 0px;
+    background-color: black;
+    color: white;
+    margin: 50px;
 }
 
 body,
@@ -26,35 +26,12 @@ ol,
 ul,
 td {
     font-family: helvetica, verdana, arial, sans-serif;
-    font-size: 13px;
+    font-size: 17px;
     line-height: 18px;
 }
 
-pre {
-    font-size: 11px;
-    white-space: pre-wrap;
-}
-
-pre.box {
-    border: 1px solid #EEE;
-    padding: 10px;
-    margin: 0px;
-    width: 958px;
-}
-
-header {
-    color: #F0F0F0;
-    background: #C52F24;
-    padding: 0.5em 1.5em;
-}
-
-h1 {
-    margin: 0.2em 0;
-    line-height: 1.1em;
-    font-size: 2em;
-}
 
 h2 {
-    color: #C52F24;
+    color: blue;
     line-height: 25px;
 }
